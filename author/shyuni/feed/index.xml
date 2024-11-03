@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shyuni &#8211; WP2Statics</title>
+	<atom:link href="/Home//author/shyuni/feed/" rel="self" type="application/rss+xml" />
+	<link>/Home//</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Nov 2024 16:05:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Google-backed Open Cloud Coalition launches to lobby European lawmakers</title>
+		<link>/Home//google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/</link>
+					<comments>/Home//google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 16:05:13 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/</guid>
+
+					<description><![CDATA[Europe has a new lobbying body, one with a self-stated mission to “improve competition, transparency and resilience” in the cloud computing sector. The Open Cloud Coalition (OCC) counts 10 members at launch, the most notable of which is Google, supported by international and local cloud providers Centerprise International, Civo, Gigas, ControlPlane, DTP Group, Prolinx, Pulsant, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p id="speakable-summary" class="wp-block-paragraph">Europe has a new lobbying body, one with a self-stated mission to “improve competition, transparency and resilience” in the cloud computing sector.</p>
+<p class="wp-block-paragraph">The <a href="https://opencloudcoalition.com/" target="_blank" rel="noreferrer noopener nofollow">Open Cloud Coalition</a> (OCC) counts 10 members at launch, the most notable of which is Google, supported by international and local cloud providers <a href="https://www.centerprise.co.uk/" target="_blank" rel="noreferrer noopener nofollow">Centerprise International</a>, <a href="https://www.civo.com/" target="_blank" rel="noreferrer noopener nofollow">Civo</a>, <a href="https://gigas.com/en-US/" target="_blank" rel="noreferrer noopener nofollow">Gigas</a>, <a href="https://controlplane.com/" target="_blank" rel="noreferrer noopener nofollow">ControlPlane</a>, <a href="https://dtpgroup.co.uk/" target="_blank" rel="noreferrer noopener nofollow">DTP Group</a>, <a href="https://www.prolinx.co.uk/" target="_blank" rel="noreferrer noopener nofollow">Prolinx</a>, <a href="https://www.pulsant.com/" target="_blank" rel="noreferrer noopener nofollow">Pulsant</a>, <a href="https://www.clarocloud.com/" target="_blank" rel="noreferrer noopener nofollow">Clairo</a> and <a href="https://opencloudcoalition.com/" target="_blank" rel="noreferrer noopener nofollow">Room 101</a>. Part of the collective’s work will involve conducting cloud market research and presenting the results to regulators in the European Union and the U.K., while “engaging in consultations on competition and market fairness,” according to a statement.</p>
+<p class="wp-block-paragraph">The launch comes hours after Microsoft’s deputy general counsel Rima Alaily preempted the announcement, publishing a blog post accusing Google of conducting a “shadow campaign” to influence cloud regulation in Europe. Alaily called the new organization an “astroturf group organized by Google,” adding that the search giant had “gone through great lengths to obfuscate its involvement, funding and control” by using smaller European cloud providers as the face of the coalition.</p>
+<p class="wp-block-paragraph">The OCC is broadly comparable to another industry trade organization called the Cloud Infrastructure Services Providers in Europe (<a href="https://cispe.cloud/" target="_blank" rel="noreferrer noopener nofollow">CISPE</a>), which launched in 2017 and has Amazon’s AWS as its flagship member alongside several dozen smaller players. Indeed, the OCC is a direct response to a settlement Microsoft reached with CISPE members (not including AWS) to abandon <a href="https://cispe.cloud/executive-summary-of-cispe-complaint-against-microsoft/" target="_blank" rel="noreferrer noopener nofollow">an antitrust complaint</a> against a licensing change <a href="https://www.microsoft.com/en-us/licensing/news/updated-licensing-rights-for-dedicated-cloud" target="_blank" rel="noreferrer noopener nofollow">Microsoft had made in 2019</a>, which made it more expensive to run its enterprise software on rival cloud services.</p>
+<p class="wp-block-paragraph">That July settlement, which reportedly included a $22 million payment and promises to make it easier for smaller cloud providers to run Microsoft software on their own infrastructure, spurred Google to launch its own complaint with the European Commission (EC). The complaint alleged that Microsoft uses anti-competitive licensing practices to force companies into staying on its Azure cloud infrastructure.</p>
+<p class="wp-block-paragraph">The OCC’s launch comes at an opportune time. A new European Commission is <a rel="nofollow" href="https://www.reuters.com/world/europe/von-der-leyen-set-name-european-commissions-new-top-team-2024-09-17/">set to take office</a>, and the <a href="https://www.reuters.com/world/europe/von-der-leyen-set-name-european-commissions-new-top-team-2024-09-17/" target="_blank" rel="noreferrer noopener nofollow">U.K. is also carrying out an in-depth cloud market investigation</a> of vendor lock-in practices. AWS and Microsoft are in the lens of the investigation <a href="https://www.canalys.com/newsroom/worldwide-cloud-services-q2-2024" target="_blank" rel="noreferrer noopener nofollow">as the market leaders</a>, and the results are expected to be published in 2025.</p>
+<p class="wp-block-paragraph">Heading up the Coalition is <a href="https://www.linkedin.com/in/nicky-stewart-7868727/" target="_blank" rel="noreferrer noopener nofollow">Nicky Stewart</a>, public sector director of U.K. cloud hosting company <a href="https://www.civo.com/" target="_blank" rel="noreferrer noopener nofollow">Civo</a>. He says that with cloud infrastructure becoming the norm, businesses are increasingly finding themselves “trapped in restrictive agreements, facing high costs and barriers” when trying to switch providers.</p>
+<p class="wp-block-paragraph">“The OCC is determined to reverse this trend by promoting a more competitive and flexible market and driving the adoption of open standards,” Stewart said in a statement.</p>
+<p class="wp-block-paragraph">Microsoft insists that Google is the main driving force of the OCC in terms of support, but <a href="https://dgagroup.com/" target="_blank" rel="noreferrer noopener nofollow">DGA Group</a>, an “advisory firm” enlisted to drive recruitment for the Coalition, said it wasn’t disclosing individual members’ contributions. However, DGA noted that the total funding would eventually be made public through the <a href="https://transparency-register.europa.eu/index_en" target="_blank" rel="noreferrer noopener nofollow">EU Transparency Register</a>. </p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Revenue Rises 16% But Cloud Server Rental Growth Slows</title>
+		<link>/Home//microsoft-revenue-rises-16-but-cloud-server-rental-growth-slows/</link>
+					<comments>/Home//microsoft-revenue-rises-16-but-cloud-server-rental-growth-slows/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 16:05:05 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//microsoft-revenue-rises-16-but-cloud-server-rental-growth-slows/</guid>
+
+					<description><![CDATA[Microsoft said Wednesday its revenue rose 16% to $65.6 billion in the third quarter—1 percentage point higher than in the second quarter—as its Azure cloud computing unit grew at a slightly slower rate than in the previous quarter. Shares fell nearly 4% in after-hours trading. Azure revenue rose 33% year over year, which CEO Satya [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img decoding="async" src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" style="width: 100%" /></p>
+<div>Microsoft said Wednesday its revenue rose 16% to $65.6 billion in the third quarter—1 percentage point higher than in the second quarter—as its Azure cloud computing unit grew at a slightly slower rate than in the previous quarter. Shares fell nearly 4% in after-hours trading. </p>
+<p> Azure revenue rose 33% year over year, which CEO Satya Nadella attributed to “AI-driven transformation” among</p></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//microsoft-revenue-rises-16-but-cloud-server-rental-growth-slows/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cloud, business software and AI push sees Microsoft results hit new high</title>
+		<link>/Home//cloud-business-software-and-ai-push-sees-microsoft-results-hit-new-high/</link>
+					<comments>/Home//cloud-business-software-and-ai-push-sees-microsoft-results-hit-new-high/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 16:04:59 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//cloud-business-software-and-ai-push-sees-microsoft-results-hit-new-high/</guid>
+
+					<description><![CDATA[Microsoft’s Q1 2025 results have exceeded expectations, but rather than having a positive impact on share prices, stock is down over future concerns. Q1 2025 revenue stood at $65.6 billion, marking a 16% increase and a $1 billion jump over prior Wall Street projections. Operating income was also up by 14% to $30.6 billion. However, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="article-body">
+<p>Microsoft’s Q1 2025 results have exceeded expectations, but rather than having a positive impact on share prices, stock is down over future concerns.</p>
+<p>Q1 2025 revenue stood at $65.6 billion, marking a 16% increase and a $1 billion jump over prior Wall Street projections. Operating income was also up by 14% to $30.6 billion.</p>
+<aside class="hawk-nest" data-block-type="embed" data-render-type="fte" data-skip="dealsy" data-widget-type="seasonal"/>
+<p>However, despite the strong performance, company stock declined 4% in after-hours trading, likely as a result of slower-than-anticipated growth projections for the next three-month period.</p>
+<h2 id="microsoft-results-3">Microsoft results</h2>
+<p>“AI-driven transformation is changing work, work artifacts, and workflow across every role, function, and business process,” Microsoft CEO Satya Nadella commented, indicating its cloud efforts are responsible for much of the ongoing growth.</p>
+<p>“Strong execution by our sales teams and partners delivered a solid start to our fiscal year with Microsoft Cloud revenue of $38.9 billion,” said CFO Amy Hood. Microsoft Cloud’s $38.9 billion in quarterly revenue marks a considerable 22% year-over-year increase.</p>
+<p>Besides its core cloud division, Microsoft noted that LinkedIn’s revenue had increased 10% and Microsoft 365 Commercial products and cloud services had grown by 13% – these are two areas of the business that have been infused with artificial intelligence in recent months, following billions of dollars of investment by the firm.</p>
+<p>However, despite predicting continued growth to the tune of between $68.1 billion and $69.1 billion in the next financial quarter, shareholders have been stripped of confidence that the tech giant will continue to deliver such strong performance, leading stock to decline. Analysts had previously projected quarterly revenue of $69.83 billion – more than the upper end of Microsoft’s latest expectation.</p>
+<div id="slice-container-newsletterForm-articleInbodyContent-9vFMXvTChoLwe2h4FPVyuS" class="slice-container newsletter-inbodyContent-slice newsletterForm-articleInbodyContent-9vFMXvTChoLwe2h4FPVyuS slice-container-newsletterForm">
+<div data-hydrate="true" class="newsletter-form__wrapper newsletter-form__wrapper--inbodyContent">
+<div class="newsletter-form__container">
+<section class="newsletter-form__top-bar"/>
+<section class="newsletter-form__main-section">
+<p class="newsletter-form__strapline">Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!</p>
+</section>
+</div>
+</div>
+</div>
+<h3 class="article-body__section" id="section-more-from-techradar-pro"><span>More from TechRadar Pro</span></h3>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//cloud-business-software-and-ai-push-sees-microsoft-results-hit-new-high/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI push sees AWS results hit new high as cloud demand soars</title>
+		<link>/Home//ai-push-sees-aws-results-hit-new-high-as-cloud-demand-soars/</link>
+					<comments>/Home//ai-push-sees-aws-results-hit-new-high-as-cloud-demand-soars/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 16:04:52 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//ai-push-sees-aws-results-hit-new-high-as-cloud-demand-soars/</guid>
+
+					<description><![CDATA[Amazon has reported an 11% growth in revenue in its latest quarterly results as profits continue to soar for the ecommerce and cloud giant, which is teetering towards a $2 trillion valuation. The strong growth is largely down to the company&#8217;s cloud computing succes, with AWS reporting a 19% year-over-year growth in revenue. At $27.5 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="article-body">
+<p>Amazon has reported an 11% growth in revenue in its latest quarterly results as profits continue to soar for the ecommerce and cloud giant, which is teetering towards a $2 trillion valuation.</p>
+<p>The strong growth is largely down to the company&#8217;s cloud computing succes, with AWS reporting a 19% year-over-year growth in revenue.</p>
+<aside class="hawk-nest" data-block-type="embed" data-render-type="fte" data-skip="dealsy" data-widget-type="seasonal"/>
+<p>At $27.5 billion, Amazon Web Services’ third-quarter revenue equates to nearly a fifth (17.3%) of the company’s entire revenue.</p>
+<h2 id="aws-pushes-amazon-revenue-3">AWS pushes Amazon revenue</h2>
+<p>Operating income for AWS reached a new milestone of $10.45 billion, accounting for more than three-fifths of the overall company’s profit, with an operating margin of 38.1%, the highest in a decade.</p>
+<p>In the same period, Google Cloud revenues increased 35%, marking much healthier growth than that of Amazon’s, however Google’s cloud division revenue is only $11.4 billion – less than half of AWS’.</p>
+<p>Since Amazon’s previous earnings call, AWS has launched a series of new genAI products, including its Rufus shopping assistant in Canada, France, Germany, India, Italy, Spain and the UK; AI Shopping Guides; Project Amelia for sellers; and video generation and live image capabilities for advertisers.</p>
+<p>It also added Anthropic’s upgraded Claude 3.5 Sonnet, Meta’s Llama 3.2, Mistral Large 2, and multiple Stability AI models to Bedrock and signed agreements with global companies like Capital One, T-Mobile and Toyota.</p>
+<div id="slice-container-newsletterForm-articleInbodyContent-pJWKxZhcCcrBFiP3TZ3kyi" class="slice-container newsletter-inbodyContent-slice newsletterForm-articleInbodyContent-pJWKxZhcCcrBFiP3TZ3kyi slice-container-newsletterForm">
+<div data-hydrate="true" class="newsletter-form__wrapper newsletter-form__wrapper--inbodyContent">
+<div class="newsletter-form__container">
+<section class="newsletter-form__top-bar"/>
+<section class="newsletter-form__main-section">
+<p class="newsletter-form__strapline">Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!</p>
+</section>
+</div>
+</div>
+</div>
+<p>“We’ve seen significant reacceleration of AWS growth for the last four quarters,&#8221; Amazon CEO Andy Jassy summarized on the company’s earnings call.</p>
+<p>While cloud shows no signs of slowing down, Amazon is also anticipating growth across its ecommerce business in the next three months. The busy festive period, driven by a handful of major consumer sales, will be met by the temporary hiring of seasonal staff globally.</p>
+<p>Jassy added that “there’s so much more coming” including “over 100 new cloud infrastructure and AI capabilities,” which will be shared at the upcoming re:Invent conference in December 2024.</p>
+<p><em>Via </em><a data-analytics-id="inline-link" href="https://www.geekwire.com/2024/aws-tops-10b-in-quarterly-operating-for-the-first-time-as-jassy-cites-reacceleration-of-cloud-business/" target="_blank" data-url="https://www.geekwire.com/2024/aws-tops-10b-in-quarterly-operating-for-the-first-time-as-jassy-cites-reacceleration-of-cloud-business/" referrerpolicy="no-referrer-when-downgrade" data-hl-processed="none" rel="noopener"><em>Geekwire</em></a></p>
+<h3 class="article-body__section" id="section-more-from-techradar-pro"><span>More from TechRadar Pro</span></h3>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//ai-push-sees-aws-results-hit-new-high-as-cloud-demand-soars/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Brand Buzz: October&#039;s social media highlights</title>
+		<link>/Home//brand-buzz-octobers-social-media-highlights/</link>
+					<comments>/Home//brand-buzz-octobers-social-media-highlights/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:35:43 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//brand-buzz-octobers-social-media-highlights/</guid>
+
+					<description><![CDATA[Campaign rounds up what brands got up to on socials last month.]]></description>
+										<content:encoded><![CDATA[<div><img decoding="async" src="https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/brandbuzz.jpg" style="width: 100%" /></p>
+<div>Campaign rounds up what brands got up to on socials last month.</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//brand-buzz-octobers-social-media-highlights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Etsy Holiday Campaign Answers Waldo&#8217;s Existential Dilemma</title>
+		<link>/Home//etsy-holiday-campaign-answers-waldos-existential-dilemma/</link>
+					<comments>/Home//etsy-holiday-campaign-answers-waldos-existential-dilemma/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:35:35 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//etsy-holiday-campaign-answers-waldos-existential-dilemma/</guid>
+
+					<description><![CDATA[People love looking for Waldo – it’s his whole raison d’etre. But how much do they really know the striped, bespectacled character? Waldo is the star of Etsy‘s holiday campaign, which delves into the mind of the children’s book character that debuted in 1987. Agency Orchard Creative is behind the ads that aim to make [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>People love looking for Waldo – it’s his whole raison d’etre. But how much do they really know the striped, bespectacled character? </p>
+<p>Waldo is the star of Etsy‘s holiday campaign, which delves into the mind of the children’s book character that debuted in 1987. Agency Orchard Creative is behind the ads that aim to make Etsy a top gifting destination for shoppers. </p>
+<p>In the minute-long hero spot, Waldo moves through the world, musing that “they always ask, ‘Where’s Waldo?’ not ‘Who’s Waldo?’” While he admits he enjoys being in a crowd, Waldo feels unsatisfied by the fact that strangers constantly search for him but don’t get to know him. </p>
+<p>Only when his girlfriend Wenda gives him a customized compass from Etsy does Waldo feel truly “seen.”</p>
+<p>In a second ad, it’s Waldo who’s on the hunt, this time for the perfect holiday gifts. He uses Etsy to find presents for Wenda and his dog Woof, both of whom also sport his iconic red and white stripes. </p>
+<p>“We wanted to create a campaign that captures the emotional magic of meaningful gift-giving – how Etsy sellers create gifts that make people feel truly seen and understood,” Etsy chief brand officer Brad Minor told ADWEEK. “Our holiday campaign highlights how Etsy sellers aren’t just making products, they’re creating moments of connection.”</p>
+<p>To convey this message, Orchard decided to “use a beloved character in a totally new way,” said group creative director Heather Larimer. </p>
+<p>“In showing how gifts can make people feel seen, we thought it would be interesting to use a flat character that everyone thinks they know, but then turn him into a real person that a great friend truly understands and values,” Larimer told ADWEEK. </p>
+<p>Another holiday ad will debut on Nov. 11. “Hunter” is about a family’s dog and the role an Etsy gift plays in preserving the pet’s memory after his death.</p>
+<p>The Waldo anthem will air in the U.S. and U.K. on Friday (Nov. 1), with “Hunter” launching on Nov. 11. An out-of-home campaign featuring life-size placements in New York, London, and Washington, D.C. will showcase original items from Etsy sellers as gifts for friends, a new mom, granddaughters, and a grandpa. Each uses the tagline,“Give ‘I get you’ gifts.” </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//etsy-holiday-campaign-answers-waldos-existential-dilemma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Campaign Trail: Taco Bell takes on ‘Big Chicken’ through family debates</title>
+		<link>/Home//campaign-trail-taco-bell-takes-on-big-chicken-through-family-debates/</link>
+					<comments>/Home//campaign-trail-taco-bell-takes-on-big-chicken-through-family-debates/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:35:30 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//campaign-trail-taco-bell-takes-on-big-chicken-through-family-debates/</guid>
+
+					<description><![CDATA[Campaign Trail is our analysis of some of the best new creative efforts from the marketing world. View past columns in the archives here. Forget chicken sandwich wars and chicken tender battles: Taco Bell wants diners to think differently about “Big Chicken” altogether. The QSR in March launched its Cantina Chicken menu nationwide, leaning on [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<div class="editor-note">
+<p><em>Campaign Trail is our analysis of some of the best new creative efforts from the marketing world. View past columns in the archives here.</em></p>
+</div>
+<p>Forget chicken sandwich wars and chicken tender battles: Taco Bell wants diners to think differently about “Big Chicken” altogether. The QSR in March launched its Cantina Chicken menu nationwide, leaning on premium ingredients as it looks to elevate the protein staple.</p>
+<p>To further those efforts and plant its flag in the chicken category, the chain launched “Bridging the Chicken Divide,” a campaign that takes a humorous look at family debates around the dining room table and pits Cantina menu fans against “trachickenalists” — the “chicken traditionalists” that ads say are found in every family.</p>
+</p>
+<p>In a 30-second spot, younger family members dig into Taco Bell’s new chicken offerings while older family members eat familiar, fast-food chicken sandwiches. Heated debate over condiment usage reaches a fever pitch before common ground proves to be “one bite away.”</p>
+<p>“I can feel again,” says the dad, before uttering a guttural chirp. The campaign premiered on Sept. 26 and is running across broadcast, connected TV and social media.</p>
+<p>“We need to make sure that people think of us as a chicken destination, because when you think of chicken, you think of KFC, Chick-fil-A, Popeyes. You don’t think of Taco Bell,” said Caroline Johnson, associate creative director at the chain’s longtime creative agency, Deutsch. “The brief was disrupting chicken.”</p>
+<h3>Generational divide</h3>
+<p>To promote the Cantina Chicken menu, Taco Bell and Deutsch wanted to do more than produce product-focused spots. The family table construct allowed the brand to make the “argument” in a more persuasive, relatable way.</p>
+<p>“The family divide is just something that everyone has,” Johnson said. “Everyone has that person in their family who’s like, ‘Let me tell you how things were and how they should always be.’”</p>
+<p>In “Bridging the Chicken Divide,” these arguments take place as debates over mayo versus avocado verde salsa or the inclusion of pickles. The humor gets a touch of innuendo when one older person says, “Please tell me you’re using a condiment.” But the agency team was wary of random humor for its own sake.</p>
+<p>“This always happens with a comedy spot: You shoot so much stuff, and whatever’s making you laugh on set is usually what ends up in the spot,” Johnson said. “We tried the condom joke, we tried some other stuff that was maybe too far, but you go too far to see where the line is.”</p>
+</p>
+<p>That humor reoccurs in a 30-second spot, “Holiday, Divided,” released on Oct. 31. The new ad gives the family table argument a festive spin, with one parent chastising, “A burrito on what could be Gam Gam’s last holiday?” Finding the right comedic edge allows Taco Bell to speak authentically with its target consumers in the Gen Z cohort. </p>
+<p>“They’re all about the being themselves and having open and authentic conversations, and I think Taco Bell uses that same perspective within how we like to phrase our messaging,” said Derek Smith, creative director at Deutsch.</p>
+<p>A focus on Gen Z also influenced the casting of Xolo Maridueña (“Cobra Kai,” “Blue Beetle”) as the external commentator in the spot. Taco Bell in recent years has teamed with younger brand ambassadors like actor-comedian Pete Davidson and singer-songwriter Omar Apollo to make its case directly to younger consumers. </p>
+<p>“We’re a legacy, establishment brand. There’s a certain level of authenticity that I think we can hit and that we cannot hit,” Johnson explained. “Bringing in someone who was a little more up-and-coming, who felt a little fresher and more authentic to the demographic as the voice of reason, rather than this big corporation talking to you, helped smooth the message.”</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//campaign-trail-taco-bell-takes-on-big-chicken-through-family-debates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to pick the right Google Business Profile categories</title>
+		<link>/Home//how-to-pick-the-right-google-business-profile-categories/</link>
+					<comments>/Home//how-to-pick-the-right-google-business-profile-categories/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:35:23 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//how-to-pick-the-right-google-business-profile-categories/</guid>
+
+					<description><![CDATA[Categories on your Google Business Profile (GBP) are among the top factors for local search rankings. It’s essential to choose the right primary and secondary categories to ensure your business appears in relevant searches.  If you’re unsure how to select the best categories for your GBP, this article will guide you through the process. How [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Categories on your Google Business Profile (GBP) are among the top factors for local search rankings. </p>
+<p>It’s essential to choose the right primary and secondary categories to ensure your business appears in relevant searches. </p>
+<p>If you’re unsure how to select the best categories for your GBP, this article will guide you through the process.</p>
+<h2 class="wp-block-heading" id="h-how-to-choose-the-best-primary-category-for-gbp">How to choose the best primary category for GBP</h2>
+<p>Choosing the right primary category for your business isn’t always straightforward. </p>
+<p>The many relevant options in industries like dentistry or HVAC can make selecting the best fit challenging.</p>
+<p>Since the primary category has the most impact on ranking your Google Business Profile for relevant searches, it’s essential to identify the optimal choice.</p>
+<p>This process becomes much easier if you have access to Places Scout – a local rank-tracking tool with a GBP category selection feature. </p>
+<p>Run a report for your top keywords, go to the <em>Leads</em> section, create a LeadGen Report, and click on <em>Category Analysis</em> to view the primary categories competitors are using successfully.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img fetchpriority="high" decoding="async" width="788" height="831" alt="Places Scout" class="wp-image-447901" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout.png.webp 788w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-321x338.png.webp 321w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-569x600.png.webp 569w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-107x113.png.webp 107w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-768x810.png.webp 768w" data-lazy-sizes="(max-width: 788px) 100vw, 788px" src="https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout.png.webp"/><noscript><img fetchpriority="high" decoding="async" width="788" height="831" src="https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout.png.webp" alt="Places Scout" class="wp-image-447901" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout.png.webp 788w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-321x338.png.webp 321w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-569x600.png.webp 569w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-107x113.png.webp 107w,https://searchengineland.com/wp-content/seloads/2024/11/Places-Scout-768x810.png.webp 768w" sizes="(max-width: 788px) 100vw, 788px"/></noscript></figure>
+</div>
+<p>Now, you can see a list of all the categories the competitors ranking for your top keywords are using on their listings.</p>
+<p>Alternatively, you can download a free extension from PlePer. When you click on a GBP listing, the extension will pop up a ton of info about the listing, including all the categories they use.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="363" height="614" alt="PlePer - Chrome extension showing GBP categories" class="wp-image-447902" srcset="https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories.png.webp 363w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-200x338.png.webp 200w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-355x600.png.webp 355w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-67x113.png.webp 67w" data-lazy-sizes="(max-width: 363px) 100vw, 363px" src="https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories.png.webp"/><noscript><img decoding="async" width="363" height="614" src="https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories.png.webp" alt="PlePer - Chrome extension showing GBP categories" class="wp-image-447902" srcset="https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories.png.webp 363w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-200x338.png.webp 200w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-355x600.png.webp 355w,https://searchengineland.com/wp-content/seloads/2024/11/PlePer-Chrome-extension-showing-GBP-categories-67x113.png.webp 67w" sizes="(max-width: 363px) 100vw, 363px"/></noscript></figure>
+</div>
+<p>The first category on the list is the primary category. Look at all the top competing listings in your area and note the primary categories they are using.</p>
+<p>Once you know the primary categories the competition uses most often, you can decide which primary category is best for your listing.</p>
+<p>Test different primary categories to see which provides the best ranking boosts for your top keywords. Just don’t change the categories too often.</p>
+<p>Wait a few weeks after a category change to assess rankings and change the category again if necessary.</p>
+<p><strong><em>Dig deeper: </em></strong><strong><em>6 Google Business Profile questions asked and answered</em></strong></p>
+<h2 class="wp-block-heading" id="h-gbp-secondary-category-optimization">GBP secondary category optimization</h2>
+<p>Although the primary category may be the most important in terms of the ranking value it provides, your listing can have nine secondary category spots. </p>
+<p>I typically recommend filling all nine secondary slots with relevant categories whenever possible. </p>
+<p>You can use the same tools I mentioned above to find the most relevant secondary categories. You can also try Jepto’s Google Business Profile Discovery tool to help you find more relevant categories.</p>
+<p>Google constantly changes, removes and adds new categories to GBP. Make sure to check monthly or quarterly for additional relevant categories you may want to add to your listing. </p>
+<p>Also, keep in mind that categories can have different names depending on where in the world you are located.</p>
+<p>For example, in Australia they have a category for “tradesmen” that is not offered in the U.S. or Canada.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="316" height="262" alt="GBP category - Tradesmen" class="wp-image-447903" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen.png.webp 316w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen-136x113.png.webp 136w" data-lazy-sizes="(max-width: 316px) 100vw, 316px" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen.png.webp"/><noscript><img loading="lazy" decoding="async" width="316" height="262" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen.png.webp" alt="GBP category - Tradesmen" class="wp-image-447903" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen.png.webp 316w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-category-Tradesmen-136x113.png.webp 136w" sizes="(max-width: 316px) 100vw, 316px"/></noscript></figure>
+</div>
+<p>If you are working with a global business, it’s important to ensure you add the most relevant categories based on the region.</p>
+<p><!-- START INLINE FORM --></p>
+<div class="nl-inline-form border py-2 px-1 my-2">
+<div class="row align-items-center nl-inline-container">
+<div class="col-12 col-lg-3 col-xl-4 pe-md-0 pb-2 pb-lg-0">
+<p class="inline-form-text text-center mb-0">Get the newsletter search marketers rely on.</p>
+</p></div>
+</p></div>
+</div>
+<p><!-- END INLINE FORM --></p>
+<hr class="wp-block-separator has-text-color has-cyan-bluish-gray-color has-css-opacity has-cyan-bluish-gray-background-color has-background"/>
+<h2 class="wp-block-heading" id="h-predefined-services">Predefined services</h2>
+<p>Another major benefit to adding secondary categories is that under each category, there is an option to select pre-defined services. </p>
+<p>Pre-defined services can help boost rankings a bit, so as you are adding secondary categories, make sure to click on each one and check off all relevant services.</p>
+<p>The categories “Contractor” and “Handyman/Handywoman/Handyperson” are extremely similar, but they have some unique services under each.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="688" height="718" alt="GBP - Contractor category" class="wp-image-447904" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category.png.webp 688w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-324x338.png.webp 324w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-575x600.png.webp 575w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-108x113.png.webp 108w" data-lazy-sizes="(max-width: 688px) 100vw, 688px" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category.png.webp"/><noscript><img loading="lazy" decoding="async" width="688" height="718" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category.png.webp" alt="GBP - Contractor category" class="wp-image-447904" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category.png.webp 688w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-324x338.png.webp 324w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-575x600.png.webp 575w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Contractor-category-108x113.png.webp 108w" sizes="(max-width: 688px) 100vw, 688px"/></noscript></figure>
+</div>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="679" height="486" alt="GBP - Handyperson category" class="wp-image-447905" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category.png.webp 679w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category-472x338.png.webp 472w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category-158x113.png.webp 158w" data-lazy-sizes="(max-width: 679px) 100vw, 679px" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category.png.webp"/><noscript><img loading="lazy" decoding="async" width="679" height="486" src="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category.png.webp" alt="GBP - Handyperson category" class="wp-image-447905" srcset="https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category.png.webp 679w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category-472x338.png.webp 472w,https://searchengineland.com/wp-content/seloads/2024/11/GBP-Handyperson-category-158x113.png.webp 158w" sizes="(max-width: 679px) 100vw, 679px"/></noscript></figure>
+</div>
+<p>Jepto’s Google Business Profile Discovery tool can also help here, as it will tell you all the services associated with each category.</p>
+<p><strong><em>Dig deeper: </em></strong><strong><em>5 top tips to boost your local SEO efforts</em></strong></p>
+<h2 class="wp-block-heading" id="h-can-you-switch-the-primary-category-depending-on-the-season-nbsp">Can you switch the primary category depending on the season? </h2>
+<p>Absolutely! This is a vital strategy for seasonal businesses like HVAC, lawn care, farms and more. </p>
+<p>Adjusting the primary category to match seasonal demand allows these businesses to optimize their visibility for relevant searches year-round.</p>
+<p>If you’re in the HVAC industry, make sure to switch your GBP category from “air conditioning repair service” to “furnace repair service” at least a few weeks before the cold weather hits. </p>
+<p>This ensures Google has time to reassess your business profile and rank it for furnace and heating terms.</p>
+<p>Many other industries also benefit from this strategy. For example, a lawn care business that does snow removal in the winter will want to switch its primary category from “lawn care” to “snow removal service” a few weeks before the first snowfall hits. </p>
+<p>Suppose your business operates a haunted house during the fall. In that case, there’s a specific category for that, which can boost your profile’s relevance and give you a competitive edge in “haunted house near me” searches. </p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="688" height="257" alt="Haunted house near me" class="wp-image-447906" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me.png.webp 688w,https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me-600x224.png.webp 600w,https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me-200x75.png.webp 200w" data-lazy-sizes="(max-width: 688px) 100vw, 688px" src="https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me.png.webp"/><noscript><img loading="lazy" decoding="async" width="688" height="257" src="https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me.png.webp" alt="Haunted house near me" class="wp-image-447906" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me.png.webp 688w,https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me-600x224.png.webp 600w,https://searchengineland.com/wp-content/seloads/2024/11/Haunted-house-near-me-200x75.png.webp 200w" sizes="(max-width: 688px) 100vw, 688px"/></noscript></figure>
+</div>
+<p>Once the Halloween season ends, you can easily switch to a more relevant category for the winter months to maintain visibility for your core services.</p>
+<h2 class="wp-block-heading" id="h-avoid-the-local-filter-with-strategic-category-tactics">Avoid the local filter with strategic category tactics</h2>
+<p>If you have multiple listings verified at the same address, such as a practitioner or department listing, it’s crucial to carefully select categories for each.</p>
+<p>Overlapping categories can trigger Google’s local filter, reducing your visibility. To avoid this, ensure that each listing at the same address has distinct categories.</p>
+<p>For example, a dental clinic with both a main office listing and a practitioner listing should assign unique categories to each.</p>
+<p>The main office might use “dentist,” while the practitioner listing could use “emergency dentist” or “pediatric dentist.”</p>
+<p>You need to confirm using local rank tracking grids that the listings are not actually filtering each other. Even if they have separate categories, this filtering can still happen if the categories are too similar.</p>
+<p>If you see an irregular pattern with inverted pins (like the one below), the local filter is likely at work.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1488" height="893" alt="Google's local filter at work" class="wp-image-447907" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work.png.webp 1488w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-563x338.png.webp 563w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-800x480.png.webp 800w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-188x113.png.webp 188w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-768x461.png.webp 768w" data-lazy-sizes="(max-width: 1488px) 100vw, 1488px" src="https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work.png.webp"/><noscript><img loading="lazy" decoding="async" width="1488" height="893" src="https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work.png.webp" alt="Google's local filter at work" class="wp-image-447907" srcset="https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work.png.webp 1488w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-563x338.png.webp 563w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-800x480.png.webp 800w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-188x113.png.webp 188w,https://searchengineland.com/wp-content/seloads/2024/11/Googles-local-filter-at-work-768x461.png.webp 768w" sizes="(max-width: 1488px) 100vw, 1488px"/></noscript></figure>
+</div>
+<p>You can also use category optimization to get your listing unfiltered if you are being filtered by nearby business listings you don’t have control over. </p>
+<p>For example, realtors tend to have major issues with the local filter when many individual realtor listings are verified to the same broker’s address. </p>
+<p>If you’re in a position like this, try changing your primary category to something none of the other listings use.</p>
+<p><strong><em>Dig deeper: </em></strong><strong><em>11 local SEO tools you should be using</em></strong></p>
+</div>
+<p><em>Contributing authors are invited to create content for Search Engine Land and are chosen for their expertise and contribution to the search community. Our contributors work under the oversight of the editorial staff and contributions are checked for quality and relevance to our readers. The opinions they express are their own.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//how-to-pick-the-right-google-business-profile-categories/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How Brands Can Get Diwali Right</title>
+		<link>/Home//how-brands-can-get-diwali-right/</link>
+					<comments>/Home//how-brands-can-get-diwali-right/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:35:16 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//how-brands-can-get-diwali-right/</guid>
+
+					<description><![CDATA[As 1 billion people worldwide get ready to celebrate Diwali, known as the festival of lights, brands are also looking to enter this cultural moment and capitalize on this holiday. Target is selling a wide range of Diwali items, including books, food, decorations and games. Costco is selling a 10-piece Diwali Diya set. Hallmark has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As 1 billion people worldwide get ready to celebrate Diwali, known as the festival of lights, brands are also looking to enter this cultural moment and capitalize on this holiday.</p>
+<p>Target is selling a wide range of Diwali items, including books, food, decorations and games. Costco is selling a 10-piece <a href="https://www.costco.com/diwali-diya-10-piece-set.product.4000262641.html" target="_blank" rel="noopener">Diwali Diya set</a>. Hallmark has a range of Diwali <a href="https://www.hallmark.com/diwali/" target="_blank" rel="noopener">greeting cards</a>. Anastasia Beverly Hills had a Diwali collaboration <a href="https://www.instagram.com/anastasiabeverlyhills/reel/DBeoBw4htST/" target="_blank" rel="noopener">makeup set</a> in partnership with influencer Aditya Madiraju that sold out in less than 14 hours online. And Cartier hosted their first-ever <a href="https://www.tiktok.com/@sofiaeatsnyc/video/7429411363837103406" target="_blank" rel="noopener">Diwali party</a> at their mansion on Fifth Avenue in New York City this year.</p>
+<p>As the child of Indian immigrants who grew up in the U.S., I was bullied for being different: for eating different foods, for listening to different music, and for celebrating different holidays. It’s heartening to see my children growing up in an environment where holidays like Diwali are being embraced by so many. As marketers, it’s our responsibility to enter these cultural moments authentically and respectfully. Here are three things to keep in mind if we want to get Diwali right.</p>
+<div class="row justify-content-center">
+<div class="col-12">
+<section class="section section--teaser section--teaser_partners section--teaser_partners--horizontal px-0 py-4">
+<div class="section--teaser_partner"><img decoding="async" loading="lazy" src="https://www.adweek.com/wp-content/uploads/2024/05/starbucks-aapi-summer-berry-2024.jpg?w=640&amp;h=360&amp;crop=1" alt="Boba-inspired beverages Starbucks Refreshers fail to credit the rich history of the Asian beverage." class="image image--partner"/>                     </div>
+</section>
+</div></div>
+<h4 class="wp-block-heading">Understand what Diwali means</h4>
+<p>For my children, who are third-generation Indian American, some of their fondest memories with their grandparents, aunt, uncle, and cousins have been centered around Diwali.</p>
+<p>Dressing up in Indian outfits that were brought from India. Helping with stringing up lights, flowers, and other decorations. Lining up diya lamps, sitting and sometimes squirming while their grandparents say prayers, and waiting for the moment they can devour Indian rotis and sweets and slurp down mango lassi. Lighting sparklers together and setting off fireworks on the long driveway as the family heads in to exchange gifts and play a competitive game of Crazy Sevens that goes into the late hours of the evening.</p>
+<p>Diwali (also known as Deepavali, meaning a row of lights) is one of the <a href="https://www.cnn.com/2022/10/23/business/diwali-products-marketing-us-mainstream-cec/index.html" target="_blank" rel="noopener">most important festivals</a> in the Hindu religion. It also holds meaning for Jains, Sikhs, and Buddhists and is celebrated not just in India but all over the world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//how-brands-can-get-diwali-right/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google updates crawl budget docs for large sites with differing mobile and desktop pages and links</title>
+		<link>/Home//google-updates-crawl-budget-docs-for-large-sites-with-differing-mobile-and-desktop-pages-and-links/</link>
+					<comments>/Home//google-updates-crawl-budget-docs-for-large-sites-with-differing-mobile-and-desktop-pages-and-links/#respond</comments>
+		
+		<dc:creator><![CDATA[shyuni]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2024 15:34:38 +0000</pubDate>
+				<category><![CDATA[Post]]></category>
+		<guid isPermaLink="false">/Home//google-updates-crawl-budget-docs-for-large-sites-with-differing-mobile-and-desktop-pages-and-links/</guid>
+
+					<description><![CDATA[Google added a new best practice in its crawl budget documentation to say it is best practice to ensure all links are present on the mobile version, as it is on your desktop version, if your page. If you do not do this, the discovery of new pages can be slower if the mobile version [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Google added a new best practice in its crawl budget documentation to say it is best practice to ensure all links are present on the mobile version, as it is on your desktop version, if your page.  If you do not do this, the discovery of new pages can be slower if the mobile version does not include all the links that are currently available on the desktop version.</p>
+<p><strong>What changed. </strong>Google added a new bullet point to <a href="https://developers.google.com/search/docs/crawling-indexing/large-site-managing-crawl-budget#updates">this section of the crawl budget documentation</a> page: </p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>“If your site uses separate HTML for mobile and desktop versions, provide the same set of links on the mobile version as you have on the desktop version. If it’s not possible to provide the same set of links on the mobile version, ensure that they’re included in a <a href="https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview">sitemap</a> file. Google only <a href="https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing">indexes the mobile version</a> of pages, and limiting the links shown there can slow down discovery of new pages.”</p>
+</blockquote>
+<p><strong>Why Google add this</strong>. Google wrote this to explain that if you do not do this, it can slow the crawl of your mobile pages. Google wrote:</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>“For large websites with separate HTML on mobile and desktop versions, the discovery of new pages can be slower if the mobile version does not include all the links that are present on the desktop version.”</p>
+</blockquote>
+<p><strong>Why we care. </strong>If you large site uses both a mobile and desktop version of the site and the links on some of those pages do not match, it can cause discovery issues for your new content.  If you want to ensure everything is optimal and the speed of crawl is fine, make sure to have the content on those pages to be the same, including the links.  You can always go with a responsive design to simply this in the future.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Home//google-updates-crawl-budget-docs-for-large-sites-with-differing-mobile-and-desktop-pages-and-links/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
